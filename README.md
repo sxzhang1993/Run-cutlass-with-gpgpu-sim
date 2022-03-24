@@ -1,4 +1,4 @@
-# Run_cutlass_with_GPGPU-SIM
+# Run cutlass with gpgpu-sim
 
 1. Download and install coda 9.1
 	

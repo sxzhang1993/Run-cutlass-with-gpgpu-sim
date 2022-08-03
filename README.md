@@ -1,6 +1,6 @@
 # Run cutlass with gpgpu-sim
 
-1. Download and install coda 9.1
+1. Download and install cuda 9.1
 	
 	      wget https://developer.nvidia.com/compute/cuda/9.1/Prod/local_installers/cuda_9.1.85_387.26_linux
       
